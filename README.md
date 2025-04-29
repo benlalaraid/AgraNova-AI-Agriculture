@@ -24,12 +24,12 @@ These notebooks are part of the **AgraNova system**, developed for an Algerian A
 
 - Python, Jupyter Notebook
 - Scikit-learn, TensorFlow/Keras, OpenCV
-- Satellite data (ERA5-Land, SoilGrids)
 - CNNs, Random Forest, Decision Trees
 - Pandas, NumPy, Matplotlib, Seaborn
 
 ## 📈 Results Highlights
 
+- 🌱 Crop Selection: **98% accuracy** on unseen data
 - 🔍 Plant disease detection: **83% accuracy** on unseen data
 - 🌾 Yield prediction: **R² = 0.961** using Decision Tree Regressor
 - 💧 Drought forecast: **90% accuracy** up to 3 months in advance
@@ -38,7 +38,7 @@ These notebooks are part of the **AgraNova system**, developed for an Algerian A
 
 - Achref SOUDA  
 - Anis BENSMAIL  
-- Raid Athmane BENLALA – [@RaidAthmane](https://github.com/RaidAthmane)
+- Raid Athmane BENLALA
 
 School: ESTIN – École Supérieure en Technologies de l’Information et du Numérique
 
