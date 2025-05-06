@@ -36,9 +36,9 @@ These notebooks are part of the **AgraNova system**, developed for an Algerian A
 
 ## 👨‍🌾 Developed By
 
+- Raid Athmane BENLALA
 - Achref SOUDA  
 - Anis BENSMAIL  
-- Raid Athmane BENLALA
 
 School: ESTIN – École Supérieure en Technologies de l’Information et du Numérique
 
